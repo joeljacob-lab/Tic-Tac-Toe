@@ -1,4 +1,4 @@
-⭕ Tic-Tac-Toe ❌
+# **⭕ Tic-Tac-Toe ❌**
 
 A browser-based Tic-Tac-Toe game built with a focus on Object-Oriented Programming (OOP) principles, specifically using the Module Pattern and Factory Functions to keep the global namespace clean.
 
